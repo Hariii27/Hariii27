@@ -1,24 +1,91 @@
-# 💫 About Me:
-🚀 I’m currently working on  <br>Building scalable full-stack applications using React.js for the frontend and Spring Boot for the backend, and also sharpening my DSA skills through LeetCode to gear up for developer interviews and real-world problem-solving. ⚔️🚀  <br><br>🤝 I’m looking to collaborate on  <br>Open-source projects involving React.js, Spring Boot, mobile app development with Flutter, AI integrations, or cloud-based backend systems.<br><br>🤔 I’m looking for help with  <br>Deploying robust full-stack applications and implementing CI/CD pipelines using GitHub Actions, Docker, and AWS/GCP.<br><br>🌱 I’m currently learning  <br>Advanced React.js techniques for clean and user-friendly code development, and deepening my skills in TypeScript and CSS properties for building clean, maintainable UIs.<br><br>💬 Ask me about  <br>React.js best practices, Tailwind, Bootstrap configurations, LeetCode DSA strategies, Flutter development, and integrating LLMs (Large Language Models).<br><br>⚡ Fun fact  <br>I used to think "Beans" were just food — now they hold the power of my backend logic in Spring Boot. 🫘 ➡️ 🖥️<br>
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQU3a6Ekw1X2/giphy.gif" width="100" alt="coding gif"/>
+  <h1>Hi there, I'm <strong>Hari Narayanan K</strong> 👋</h1>
+  <h3>Full Stack Developer | Building scalable web & mobile apps</h3>
 
+  <p>
+    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
+    <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%2300C853.svg?style=for-the-badge" alt="Open to collab"/>
+  </p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harinarayanan1) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Quiet_Source_832) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harinarayanan2711@gamil.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Hariii27&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Hariii27&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariii27&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hariii27&limit=5&theme=react&combine_all_yearly_contributions=true)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Currently+learning+AI+%2F+ML;Passionate+about+DSA;Building+with+React+%26+Flask" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Hariii27&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 About Me
+
+- 🌱 **Currently learning** AI/ML and integrating intelligent features into full-stack applications.
+- 💻 Passionate about **DSA** — actively solving problems on LeetCode to sharpen problem-solving skills.
+- 📍 Based in **Madurai, Tamil Nadu, India**.
+- 🔭 Open to collaborating on open-source projects involving React, Flask, Flutter, or AI integrations.
+- ⚡ Fun fact: I turn coffee into clean, scalable code.
+
+### 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+**Frameworks & Libraries**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+**Tools & Others**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+
+---
+
+### 🔥 Featured Projects
+
+- **[Instagram-Clone](https://github.com/Hariii27/Instagram-Clone)** — Full-featured Instagram-like web application built with modern JavaScript stack.
+- **[Time-Table-Web-Application](https://github.com/Hariii27/Time-Table-Web-Application)** — Dynamic timetable management web app using HTML, CSS & JavaScript.
+- **[TAURUS.chatbot](https://github.com/Hariii27/TAURUS.chatbot)** — Intelligent chatbot project (C++ based).
+- **[Desimoo](https://github.com/Hariii27/Desimoo)** — Innovative project exploring new ideas
+
+**High-level Project Highlight:**  
+**Full-Stack Portfolio / Dashboard Application** (built with React + Flask + AWS) — A responsive web platform with user authentication, dynamic data handling, and cloud deployment. Demonstrates end-to-end development skills from frontend UI to backend logic and deployment.
+
+*(Replace the highlight with your actual best project link + 1-line description if you prefer)*
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariii27&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hariii27&theme=tokyonight&hide_border=true" alt="Streak Stats" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hariii27&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</div>
+
+---
+
+### 🌐 Connect with Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harinarayanan1)
+[![X / Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your_twitter_handle) <!-- Replace with actual link if available -->
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/3QcxKdKh8H)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hariii27)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="AI gif"/>
+  <p><em>"The only way to do great work is to love what you do." – Steve Jobs</em></p>
+</div>
+
+---
+
+*Made with ❤️ in Madurai | Always learning & building*
