@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%2300C853.svg?style=for-the-badge" alt="Open to collab"/>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Currently+learning+AI+%2F+ML;Passionate+about+DSA;Building+with+React+%26+Flask" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Currently+learning+AI+%2F+ML;Passionate+about+Vibe+Coding;Building+Applications+With+AI" alt="Typing SVG" />
 </div>
 
 ---
