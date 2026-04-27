@@ -16,7 +16,7 @@
 ### 🚀 About Me
 
 - 🌱 **Currently learning** AI/ML and integrating intelligent features into full-stack applications.
-- 💻 Passionate about **DSA** — actively solving problems on LeetCode to sharpen problem-solving skills.
+- 💻 Passionate about **VIBE CODING** — actively solving problems with AI to sharpen problem-solving skills.
 - 📍 Based in **Madurai, Tamil Nadu, India**.
 - 🔭 Open to collaborating on open-source projects involving React, Flask, Flutter, or AI integrations.
 - ⚡ Fun fact: I turn coffee into clean, scalable code.
