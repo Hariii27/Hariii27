@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQU3a6Ekw1X2/giphy.gif" width="100" alt="coding gif"/>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="coding gif"/>
   <h1>Hi there, I'm <strong>Hari Narayanan K</strong> 👋</h1>
   <h3>Full Stack Developer | Building scalable web & mobile apps</h3>
 
@@ -82,7 +82,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="AI gif"/>
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" alt="coding gif"/>
   <p><em>"The only way to do great work is to love what you do." – Steve Jobs</em></p>
 </div>
 
