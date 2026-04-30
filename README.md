@@ -57,7 +57,7 @@
 
 
 
-*(Replace the highlight with your actual best project link + 1-line description if you prefer)*
+
 
 ---
 
