@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100" alt="coding gif"/>
   <h1>Hi there, I'm <strong>Hari Narayanan K</strong> 👋</h1>
-  <h3>Full Stack Developer | Building scalable web & mobile apps</h3>
+  <h3>AI & ML Engineer | Building  AI & ML Models</h3>
 
   <p>
     <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
