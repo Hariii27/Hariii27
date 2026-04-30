@@ -4,7 +4,7 @@
   <h3>AI & ML Engineer | Building  AI & ML Models</h3>
 
   <p>
-    <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
+    <img src="https://img.shields.io/badge/AI%20ML%20System%20Developer-%23121011.svg?style=for-the-badge&logo=react&logoColor=white" alt="Full Stack"/>
     <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%2300C853.svg?style=for-the-badge" alt="Open to collab"/>
   </p>
 
