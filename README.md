@@ -8,31 +8,36 @@
     <img src="https://img.shields.io/badge/Open%20to%20Collaboration-%2300C853.svg?style=for-the-badge" alt="Open to collab"/>
   </p>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Currently+learning+AI+%2F+ML;Passionate+about+Vibe+Coding;Building+Applications+With+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Currently+learning+AI+%2F+ML;Passionate+about+AI+ML+Models;Building+Applications+With+AI+Models" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
 
-- 🌱 **Currently learning** AI/ML and integrating intelligent features into full-stack applications.
-- 💻 Passionate about **VIBE CODING** — actively solving problems with AI to sharpen problem-solving skills.
+-  🤖 AI/ML Engineer in progress, focused on building real-world intelligent systems.
+- 🌱 Currently learning Machine Learning, Deep Learning
 - 📍 Based in **Madurai, Tamil Nadu, India**.
-- 🔭 Open to collaborating on open-source projects involving React, Flask, Flutter, or AI integrations.
-- ⚡ Fun fact: I turn coffee into clean, scalable code.
+- 🧠 Strong interest in model building, data analysis, and AI system design.
+- 🔭 Open to collaborating on open-source projects involving AI & Ml Models with AI Application System Design.
+
 
 ### 🛠️ Tech Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 
-**Frameworks & Libraries**  
+
+**Frameworks & Libraries** 
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C853?style=flat&logo=openai&logoColor=white)
+![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
 
 **Tools & Others**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -43,13 +48,14 @@
 
 ### 🔥 Featured Projects
 
+- **[Customer-Behavior-Clustering](https://github.com/Hariii27/Customer-Behavior-Clustering)** -  Customer Segmentation using K-Means Clustering
+- **[GradeML](https://github.com/Hariii27/GradeMl)** - Student Grade Prediction using Machine Learning
 - **[Instagram-Clone](https://github.com/Hariii27/Instagram-Clone)** — Full-featured Instagram-like web application built with modern JavaScript stack.
 - **[Time-Table-Web-Application](https://github.com/Hariii27/Time-Table-Web-Application)** — Dynamic timetable management web app using HTML, CSS & JavaScript.
-- **[TAURUS.chatbot](https://github.com/Hariii27/TAURUS.chatbot)** — Intelligent chatbot project (C++ based).
+- **[TAURUS.chatbot](https://github.com/Hariii27/TAURUS.chatbot)** — Intelligent chatbot project.
 - **[Desimoo](https://github.com/Hariii27/Desimoo)** — Innovative project exploring new ideas
 
-**High-level Project Highlight:**  
-**Full-Stack Portfolio / Dashboard Application** (built with React + Flask + AWS) — A responsive web platform with user authentication, dynamic data handling, and cloud deployment. Demonstrates end-to-end development skills from frontend UI to backend logic and deployment.
+
 
 *(Replace the highlight with your actual best project link + 1-line description if you prefer)*
 
